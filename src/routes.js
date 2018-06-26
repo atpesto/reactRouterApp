@@ -5,18 +5,22 @@ import Redux from "./components/Redux";
 
 const routes = [
   {
+    id: 1,
     path: '/javascript',
     component: JavaScript,
   },
   {
+    id: 2,
     path: '/react',
     component: React,
   },
   {
+    id: 3,
     path: '/react-router',
     component: ReactRouter,
   },
   {
+    id: 4,
     path: '/redux',
     component: Redux,
   }

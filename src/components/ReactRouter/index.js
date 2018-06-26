@@ -1,3 +1,3 @@
-import ReduxRouter from './ReduxRouter'
+import ReactRouter from './ReactRouter'
 
-export default ReduxRouter;
+export default ReactRouter;

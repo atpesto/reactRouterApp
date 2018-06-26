@@ -1,10 +1,10 @@
-import React, { Component } from 'react';
+import React from 'react';
 
 
-const React = () => (
+const MyReact = () => (
   <div>
     React goes in here!
   </div>
 );
 
-export default React;
+export default MyReact;
